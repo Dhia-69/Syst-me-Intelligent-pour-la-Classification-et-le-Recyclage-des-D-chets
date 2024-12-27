@@ -78,7 +78,7 @@ Système intelligent pour la classification et le recyclage des déchets
 │   ├── image.png
 │   ├── hog.png
 │   ├── LBP.png
-|
+├── best_model.pkl
 ├── Partie1.ipynb
 ├── Partie2.ipynb
 ├── Partie3.ipynb
